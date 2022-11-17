@@ -12,9 +12,9 @@ REQUIRMENTS FOR RECONSTRUCTION:
 - An arduino uno or other microcontroller
 
 FILES:
-UDSBracket.stl:   3d model for the bracket which mounts the ultrasonic distance sensor to the servo
-lBracket.ai:      2.5d model for the bracket which mounts the ultrasonic distance sensor to the servo
-towerRing.ai:     2.5d model for the ring which is used to construct the tower
-towerBracket.ai:  2.5d model for the bracket that attaches your Arduino to the tower
-scaffold.ino:     Arduino code to move servo and send sonar information to serial monitor
-processing.pde:   Processing script to visualize serial data
+- UDSBracket.stl:   3d model for the bracket which mounts the ultrasonic distance sensor to the servo
+- lBracket.ai:      2.5d model for the bracket which mounts the ultrasonic distance sensor to the servo
+- towerRing.ai:     2.5d model for the ring which is used to construct the tower
+- towerBracket.ai:  2.5d model for the bracket that attaches your Arduino to the tower
+- scaffold.ino:     Arduino code to move servo and send sonar information to serial monitor
+- processing.pde:   Processing script to visualize serial data
