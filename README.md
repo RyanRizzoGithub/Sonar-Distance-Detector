@@ -1,3 +1,5 @@
+# Sonar Distance Detector
+
 AUTHOR:
 - Ryan Rizzo
 
