@@ -2,7 +2,7 @@ AUTHOR:
 Ryan Rizzo
 
 PURPOSE:
-Designed and built a Arduino implementation of a sonar, which is a device that
+Designed and built an Arduino implementation of sonar, which is a device that
 sweeps back and forth, measuring the distance between the sensor and the nearest object at each
 angle. This information is sent back to the computer where it will be visualized live using
 Processing
