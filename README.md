@@ -1,5 +1,7 @@
 # Sonar Distance Detector
 
+![IMG_7926](https://user-images.githubusercontent.com/89487878/209451120-75f00fce-233d-4216-84c3-36effbcfc02a.jpg)
+
 AUTHOR:
 - Ryan Rizzo
 
